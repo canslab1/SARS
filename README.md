@@ -14,7 +14,7 @@ To make this research accessible to a wider audience, we have developed an inter
 Pandemic control is not just a medical issue—it is a social behavior issue. By using realistic models and simulations, we can develop better strategies for containing future outbreaks and protecting public health. If you're interested in this research, download our paper and simulation tool today and join us in exploring how viruses spread!
 
 # 病毒是怎麼傳播的？我們能預測下一場疫情嗎？
-每當有新興傳染病爆發，大家最關心的問題往往是：「疫情到底會擴散多快？」「防疫政策真的有效嗎？」從 2003 年的 SARS、2009 年的 H1N1 流感，到 2020 年的 COVID-19，我們已經多次見識到病毒如何迅速擴散，衝擊全球。然而，想要準確預測疫情的發展，遠比單純計算「R 值」（基本傳染數）更困難。因為影響病毒傳播的，除了生物特性，還有人類的行為模式。
+每當有新興傳染病爆發，大家最關心的問題往往是：「疫情到底會擴散多快？」「防疫政策真的有效嗎？」從 2003 年的 SARS、2009 年的 H1N1 流感，到 2020 年的 COVID-19，我們已經多次見識到病毒如何迅速擴散，衝擊全球。然而，想要準確預測疫情的發展，遠比單純計算 R 值（基本傳染數）更困難。因為影響病毒傳播的，除了生物特性，還有人類的行為模式。
 
 傳統的流行病學模型大多假設人們是隨機移動的個體，接觸到感染者就可能生病。但現實中，我們的日常活動是有規律的：每天固定去上班、上課、買菜、回家，而不是隨機亂走。因此，我們在研究 SARS 傳播時，提出了一種新的 「小世界流行病模型」(Small-World Epidemiological Model)，並引入了 「社會分身點」(Mirror Identity) 的概念，來更準確地模擬疫情發展。
 
